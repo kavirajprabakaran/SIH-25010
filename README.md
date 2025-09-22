@@ -41,56 +41,42 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<pre>
-  AI-powered voice + image advisory for farmers (works on WhatsApp, IVR calls, and app).
-
-Local language voice support for low-literate users.
-
-Farmers send crop images → instant pest/disease diagnosis + solution.
-
-Weather, soil & fertilizer guidance with hyper-local recommendations.
-
-Market price & govt scheme alerts to help economic decisions.
-
-Unique feedback loop with local agents to build trust & improve AI accuracy.
-
-</pre>
+<ul>
+<li>AI-powered voice + image advisory for farmers (works on WhatsApp, IVR calls, and app).</li>
+<li>Local language voice support for low-literate users.</li>
+<li>Farmers send crop images → instant pest/disease diagnosis + solution.</li>
+<li>Weather, soil & fertilizer guidance with hyper-local recommendations.</li>
+<li>Market price & govt scheme alerts to help economic decisions.</li>
+<li>Unique feedback loop with local agents to build trust & improve AI accuracy.</li>
+</ul>
 
 ## Technical Approach
-<pre>
-  Multilingual speech-to-text + text-to-speech for voice queries.
-
-Deep learning image classification for pest/disease detection.
-
-Satellite + weather API + soil data for irrigation & fertilizer planning.
-
-Cloud-based, scalable system with periodic retraining using farmer feedback.
-</pre>
+<ul>
+<li>Multilingual speech-to-text + text-to-speech for voice queries.</li>
+<li>Deep learning image classification for pest/disease detection.</li>
+<li>Satellite + weather API + soil data for irrigation & fertilizer planning.</li>
+<li>Cloud-based, scalable system with periodic retraining using farmer feedback.</li>
+</ul>
 ![technical approach](https://github.com/user-attachments/assets/5cd40c30-cb00-43db-a2fa-f68606d4b8c2)
 
 ## Feasibility and Viability
-<pre>
-  Proven tech (ASR, image AI, weather APIs) → highly feasible.
+<ul>
+<li>Proven tech (ASR, image AI, weather APIs) → highly feasible.</li>
+<li>Works even on basic phones via IVR/WhatsApp → inclusive & scalable.</li>
+<li>Low cost, easy to pilot regionally, scalable across India.</li>
+</ul>
 
-Works even on basic phones via IVR/WhatsApp → inclusive & scalable.
-
-Low cost, easy to pilot regionally, scalable across India.
-
-
-</pre>
 ## Impact and Benefits
-<pre>
-  20–30% higher yields, reduced input cost, better profit margins.
-
-Lower pesticide overuse → improved soil health & environment.
-
-Builds farmer confidence and reduces dependence on guesswork.
-
-</pre>
+<li>20–30% higher yields, reduced input cost, better profit margins.</li>
+<li>Lower pesticide overuse → improved soil health & environment.</li>
+<li>Builds farmer confidence and reduces dependence on guesswork.</li>
+</ul>
 
 ## Research and References
-<pre>
-  NABARD Report 2022 (86% small/marginal farmers).
-
-ICRISAT AI climate advisory, Farmonaut WhatsApp advisory, GSMA digital agri case studies.
-</pre>
+<ul>
+<li>NABARD Report 2022 (86% small/marginal farmers).</li>
+<li>ICRISAT AI climate advisory, Farmonaut WhatsApp advisory, GSMA digital agri case studies.</li>
+<a href="https://www.nature.com/articles/s41598-025-98454-6"> reference link</a>
+  <br>
+<a href="https://openknowledge.fao.org/server/api/core/bitstreams/f558a271-7c04-40d9-892a-aab9bb994598/content">reference link</a>
+</ul>
