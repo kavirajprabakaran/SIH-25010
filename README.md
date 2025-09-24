@@ -57,7 +57,8 @@ Agriculture, FoodTech & Rural Development
 <li>Satellite + weather API + soil data for irrigation & fertilizer planning.</li>
 <li>Cloud-based, scalable system with periodic retraining using farmer feedback.</li>
 </ul>
-![technical approach](https://github.com/user-attachments/assets/5cd40c30-cb00-43db-a2fa-f68606d4b8c2)
+<img width="1024" height="1536" alt="flow chart" src="https://github.com/user-attachments/assets/a2265eb2-3575-4c9c-8d26-209289ab3d03" />
+
 
 ## Feasibility and Viability
 <ul>
